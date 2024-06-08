@@ -3,7 +3,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ritul+Kumar!;" />
 </h1>
-<img align="right" height="200" src="https://media.tenor.com/HUnC8D7ZhbcAAAAi/goku-dbz.gif"  />
+<img align="right" height="350" src="https://i.giphy.com/SaSAUwiGPsPtswfPRk.webp"  />
 
 <h3 align="center">A dedicated frontend enthusiast with a passion for coding from India 🌟</h3>
 
